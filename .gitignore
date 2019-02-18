@@ -106,8 +106,6 @@ venv.bak/
 .mypy_cache/
 
 .idea/workspace.xml
-Pipfile
-Pipfile.lock
 pages/__pycache__/
 pages/migrations/__pycache__/
 pages_project/__pycache__/
