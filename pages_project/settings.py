@@ -25,7 +25,7 @@ SECRET_KEY = '$xbcam@h5g*7s8&q-)l6s&h!ylq@^5lpoo=yn=_v$zdz=&b(1)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [*]
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
